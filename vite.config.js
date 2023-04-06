@@ -21,9 +21,18 @@ export default defineConfig({
 				mavygulInerova: resolve(__dirname, 'articles/mavygul-inerova3222.html'),
 				oguljanReyimbayeva: resolve(__dirname, 'articles/oguljan-reyimbayeva3222.html'),
 
+				rowshenAgalyyew: resolve(__dirname, 'articles/rowshen-agalyyew3222.html'),
+				salyhAnnagurbanow: resolve(__dirname, 'articles/salyh-annagurbanow3222.html'),
+				tagandurdyTaganow: resolve(__dirname, 'articles/tagandurdy-taganow3222.html'),
+				akmuhammetAshyrow: resolve(__dirname, 'articles/akmuhammet-ashyrow3222.html'),
+				mommadowHudaynazar: resolve(__dirname, 'articles/hudaynazar-mommadow3222.html'),
+
+
 				orazdurdyyewAhmet: resolve(__dirname, 'articles/orazdurdyyew-ahmet3223.html'),
 				yusubowAziz: resolve(__dirname, 'articles/yusubow-aziz3223.html'),
 				charyyewMyrat: resolve(__dirname, 'articles/charyyew-myrat3223.html'),
+				guwanchShadow: resolve(__dirname, 'articles/guwanch-shadow3223.html'),
+				gurbannazarHowmayew: resolve(__dirname, 'articles/gurbannazar-howmayew3223.html'),
 			},
 		},
 	},
