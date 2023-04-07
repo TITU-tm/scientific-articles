@@ -33,7 +33,6 @@ export default defineConfig({
 				yusubowAziz: resolve(__dirname, 'articles/yusubow-aziz3223.html'),
 				charyyewMyrat: resolve(__dirname, 'articles/charyyew-myrat3223.html'),
 				guwanchShadow: resolve(__dirname, 'articles/guwanch-shadow3223.html'),
-				gurbannazarHowmayew: resolve(__dirname, 'articles/gurbannazar-howmayew3223.html'),
 			},
 		},
 	},
