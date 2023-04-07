@@ -26,6 +26,7 @@ export default defineConfig({
 				tagandurdyTaganow: resolve(__dirname, 'articles/tagandurdy-taganow3222.html'),
 				akmuhammetAshyrow: resolve(__dirname, 'articles/akmuhammet-ashyrow3222.html'),
 				mommadowHudaynazar: resolve(__dirname, 'articles/hudaynazar-mommadow3222.html'),
+				shirmammetAshyrow: resolve(__dirname, 'articles/shirmammet-ashyrow3222.html'),
 
 
 				orazdurdyyewAhmet: resolve(__dirname, 'articles/orazdurdyyew-ahmet3223.html'),
