@@ -28,6 +28,10 @@ export default defineConfig({
 				mommadowHudaynazar: resolve(__dirname, 'articles/hudaynazar-mommadow3222.html'),
 				shirmammetAshyrow: resolve(__dirname, 'articles/shirmammet-ashyrow3222.html'),
 
+				wepamyratOrazmyradow: resolve(__dirname, 'articles/wepamyrat-orazmyradow3222.html'),
+				salyhIlmyradow: resolve(__dirname, 'articles/salyh-ilmyradow3222.html'),
+				dayanchRejepow: resolve(__dirname, 'articles/dayanch-rejepow3222.html'),
+
 
 				orazdurdyyewAhmet: resolve(__dirname, 'articles/orazdurdyyew-ahmet3223.html'),
 				yusubowAziz: resolve(__dirname, 'articles/yusubow-aziz3223.html'),
