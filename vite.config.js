@@ -9,8 +9,6 @@ export default defineConfig({
 				main: resolve(__dirname, 'index.html'),
 
 
-				ashyrowAshyrBayramovaBagul: resolve(__dirname, 'articles/ashyrow-ashyr-Bayramova-bagul3221.html'),
-
 				bezirgenYaylymow: resolve(__dirname, 'articles/bezirgen-yaylymow3222.html'),
 				meylisBabayew: resolve(__dirname, 'articles/meylis-babayew3222.html'),
 				mekanSaparow: resolve(__dirname, 'articles/mekan-saparow3222.html'),
@@ -28,10 +26,8 @@ export default defineConfig({
 				akmuhammetAshyrow: resolve(__dirname, 'articles/akmuhammet-ashyrow3222.html'),
 				mommadowHudaynazar: resolve(__dirname, 'articles/hudaynazar-mommadow3222.html'),
 				shirmammetAshyrow: resolve(__dirname, 'articles/shirmammet-ashyrow3222.html'),
-				wepamyratOrazmyradow: resolve(__dirname, 'articles/wepamyrat-orazmyradow3222.html'),
-				salyhIlmyradow: resolve(__dirname, 'articles/salyh-ilmyradow3222.html'),
-				dayanchRejepow: resolve(__dirname, 'articles/dayanch-rejepow3222.html'),
-
+				salyhIlmyradowWepamyratOrazmyradow: resolve(__dirname, 'articles/salyh-ilmyradow-Wepamyrat-orazmyradow3222.html'),
+				malikgulyyewaAylarBegiyewAydogdy: resolve(__dirname, 'articles/malikgulyyewa-aylar-Begiyew-aydogdy3222.html'),
 
 				orazdurdyyewAhmet: resolve(__dirname, 'articles/orazdurdyyew-ahmet3223.html'),
 				yusubowAziz: resolve(__dirname, 'articles/yusubow-aziz3223.html'),
@@ -40,12 +36,28 @@ export default defineConfig({
 
 
 
+				durdylyyewYusupGaryagdyyewOsman: resolve(__dirname, 'articles/durdylyyew-yusup-Garyagdyyew-osman3111.html'),
+				gadamGapurowMammetGylyjow: resolve(__dirname, 'articles/gadam-gapurow-Mammet-gylyjow3111.html'),
+
+				seyitdurdyAhmetdurdyyewAtamyratAkmyradow: resolve(__dirname, 'articles/seyitdurdy-ahmetdurdyyew-Atamyrat-akmyradow3111.html'),
+				hojaahmetRahimbayewAlisherMahmudow: resolve(__dirname, 'articles/hojaahmet-rahimbayew-Alisher-mahmudow3111.html'),
+				baharDowletowaGulnazaYunusowa: resolve(__dirname, 'articles/bahar-dowletowa-gulnaza-yunusowa3111.html'),
+
+
+				selbiSapargeldiyewaHatyjaRejepowa: resolve(__dirname, 'articles/selbi-sapargeldiyewa-Hatyja-rejepowa3112.html'),
+
+				lukmanOkdemjanowGozelShohradowa: resolve(__dirname, 'articles/lukman-okdemjanow-Gozel-Shohradowa3112.html'),
+
 
 				gunchajumamyradowaOgulhallyNurmyradowa: resolve(__dirname, 'articles/guncha-jumamyradowa-Ogulhally-nurmyradowa3411.html'),
 				sopyyewHalylmuhammetAmannazarowaNurana: resolve(__dirname, 'articles/sopyyew-halylmuhammet-Amannazarowa-nurana3411.html'),
 				jumadurdyyewaGulshatBegpoladowaOguljeren: resolve(__dirname, 'articles/jumadurdyyewa-gulshat-Begpoladowa-oguljeren3411.html'),
-				
-				durdylyyewYusupGaryagdyyewOsman: resolve(__dirname, 'articles/durdylyyew-yusup-Garyagdyyew-osman3111.html'),
+
+
+				altynayAshyrowaGurbanmyratAllamyradow: resolve(__dirname, 'articles/altynay-ashyrowa-Gurbanmyrat-allamyradow.html'),
+				dowletgeldiHanowManzuraYermetowa: resolve(__dirname, 'articles/dowletgeldi-hanow-Manzura-yermetowa.html'),
+				merdanEmirowSalayewIlhambek: resolve(__dirname, 'articles/merdan-emirow-Salayew-ilhambek.html'),
+				merdanGarlyyewMuhammetamanDurdyyew: resolve(__dirname, 'articles/merdan-garlyyew-Muhammetaman-durdyyew.html'),
 			},
 		},
 	},
