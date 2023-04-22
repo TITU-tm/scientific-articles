@@ -27,7 +27,7 @@ export default defineConfig({
 				mommadowHudaynazar: resolve(__dirname, 'articles/hudaynazar-mommadow3222.html'),
 				shirmammetAshyrow: resolve(__dirname, 'articles/shirmammet-ashyrow3222.html'),
 				salyhIlmyradowWepamyratOrazmyradow: resolve(__dirname, 'articles/salyh-ilmyradow-Wepamyrat-orazmyradow3222.html'),
-				malikgulyyewaAylarBegiyewAydogdy: resolve(__dirname, 'articles/malikgulyyewa-aylar-Begiyew-aydogdy3222.html'),
+				malikgulyyewaAylarBegiyewAydogdy: resolve(__dirname, 'articles/dayanch-rejepow3222.html'),
 
 				orazdurdyyewAhmet: resolve(__dirname, 'articles/orazdurdyyew-ahmet3223.html'),
 				yusubowAziz: resolve(__dirname, 'articles/yusubow-aziz3223.html'),
