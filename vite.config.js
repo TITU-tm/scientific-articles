@@ -42,6 +42,7 @@ export default defineConfig({
 				seyitdurdyAhmetdurdyyewAtamyratAkmyradow: resolve(__dirname, 'articles/seyitdurdy-ahmetdurdyyew-Atamyrat-akmyradow3111.html'),
 				hojaahmetRahimbayewAlisherMahmudow: resolve(__dirname, 'articles/hojaahmet-rahimbayew-Alisher-mahmudow3111.html'),
 				baharDowletowaGulnazaYunusowa: resolve(__dirname, 'articles/bahar-dowletowa-gulnaza-yunusowa3111.html'),
+				ogulbagtOrazowaAybolekBerdiyewa: resolve(__dirname, 'articles/ogulbagt-orazowa-Aybolek-berdiyewa3111.html'),
 
 
 				selbiSapargeldiyewaHatyjaRejepowa: resolve(__dirname, 'articles/selbi-sapargeldiyewa-Hatyja-rejepowa3112.html'),
